@@ -26,11 +26,12 @@ I'm a junior in Data Analysis and ML.
 
 ### Connect with me:
 
-[<img align="left" alt="opa_oz | TG" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
-[<img align="left" alt="opa_oz | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="opa_oz | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
+[<img align="left" alt="sirena0789 | TG" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
+[<img align="left" alt="sirena0789 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="sirena0789 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="sirena0789 | HH" width="22px" src="https://papik.pro/uploads/posts/2022-01/1643610825_6-papik-pro-p-hh-logotip-9.png"/>][hh]
 
 [telegram]: https://t.me/sirena0789/
 [linkedin]: https://www.linkedin.com/in/sirena0789/
 [instagram]: https://www.instagram.com/sirena0789/
+[hh]: https://hh.ru/resume/796f5f67ff0996376e0039ed1f733763697442
