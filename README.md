@@ -1,4 +1,4 @@
-### Hi there, I'm Yana ✌🏻
+### Hi there, I'm Iana ✌🏻
 ###  💁🏼‍♀️ About Me:
 I'm a junior in Data Analysis and ML.
 - 👩🏼‍🎓 Currently pursuing a Master of Mathematics
